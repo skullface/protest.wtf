@@ -10,20 +10,26 @@ Be as informed as possible before you head out for an action.
 * [ACTUP NY: Demonstrator rights](https://actupny.org/documents/demomanual/atthedemo.html): What the first Amendment and civil disobedience means when you are at a protest.
 * [Up Against the Law: Interactions with law enforcement](http://upagainstthelaw.org/interactions-with-law-enforcement/): What to expect and how to best interact with law enforcement.
 
-Remember our goals are not aligned with law enforcement. Remember that _anything_ you say **CAN** and **WILL** be used against you _and others_.
+Remember our goals are not aligned with law enforcement. Remember that **anything** you say **can** and **will** be used against you and others.
 
 ### Consider your arrestability
-Consider your own private legal concerns, jeopardy of employment or professional license, obligations to your family or work. Keep to those boundaries. 
+Consider your own private legal concerns, jeopardy of employment or professional license, and obligations to your family or work. Keep to those boundaries. 
 
 ### Find a buddy and commit with them
 Don’t go alone! It’s always better to have a partner. Talk about your vulnerabilities, comfort level, and special skills. Determine and agree to your desired risk level and stick to it.
 
 ### Determine your place
-Every action has many roles to fill — figure out where _you_ can help the most. You don’t need to be a “hero”, you just need to be a body.
+Every action has many roles to fill — figure out where _you_ can help the most. You don’t need to be a hero, you just need to be a body.
 * [Hong Kong protest role infographic](https://i.imgur.com/su1Z6X1.jpg)
 
-### Learn about chemical weapon effects
-“Crowd control agents” (chemical weapons) like tear gas, pepper spray, and rubber bullets, are banned elsewhere in the world for their potential dangers. Get familiar with their effects, potential complications, and how to care for yourself after the fact ahead of time. There are many urban legends about how to best treat tear gas and pepper spray — water is safest. **Do not provide medical care beyond your training.** Your goals are to keep it out of your eyes, keep it out of your lungs, and keep it off your skin.
+### Learn about weapons that will be used against you
+“Less lethal” ammunition American police use is banned elsewhere in the world because they cause permanent harm and fatality. 
+* Tear gas (RCA, CS gas)
+* Pepper spray (OC pepper)
+* Rubber bullets (rubber baton rounds)
+* Wooden bullets (wooden baton rounds)
+
+Get familiar with their effects, potential complications, and how to care for yourself after the fact ahead of time. **Do not provide medical care beyond your training.** There are many urban legends about how to best treat tear gas and pepper spray — water is safest. Your goals are to keep it out of your eyes, keep it out of your lungs, and keep it off your skin.
 * [_Riot Medicine_](https://riotmedicine.net/) researched, public-domain PDF book
 * [What to do if you’re exposed to tear gas](https://www.popsci.com/story/diy/tear-gas-guide/) article by PopSci
 
@@ -50,4 +56,4 @@ Have at least one escape route planned with your buddy. Have a meeting place if 
 
 * **Participate in street medic training**: If you have a minimum of 20 hours of healthcare/medical training (nurse, EMT, herbalist, etc.), consider volunteering as a street medic to assist protestors on site. Find a bridge training happening near you by an established group of street medics, like [NYC Action Medical](https://www.facebook.com/NYCactionmedical).
 * **Donate supplies to organizers and street medics**: Get in touch with your local activists to see where you can help with supplies. Often money is the best donation so organizers can get exactly what they need. 
-* **Bring extra supplies to hand out***: Consider bringing universal supplies like snacks without common allergens, extra water, bug spray, sunscreen, hand sanitizer, bandages, etc. to help where you can.
+* **Bring extra supplies to hand out**: Consider bringing universal supplies like snacks without common allergens, extra water, bug spray, sunscreen, hand sanitizer, bandages, etc. to help where you can.

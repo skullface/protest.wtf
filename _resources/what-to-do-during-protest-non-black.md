@@ -3,7 +3,7 @@ title: "What to do during a protest as a non-Black person"
 layout: post
 ---
 
-Take on as much risk as you can so that risk does not fall on the shoulders of Black protestors, especially those who are visibly queer and/or undocumented. White folks MUST leverage their privilege to protect Black folks from harm.
+Take on as much risk as you can so that risk does not fall on the shoulders of Black protestors. Do everything possible to protect the identity and security of trans and undocumented Black people. White folks MUST leverage their privilege to protect Black folks from harm.
 
 ### Be a human shield 
 If you see a Black person approaching law enforcement with no barricade, place yourself between the protestor and the officer. If they are on the ground, get on top of them. If they are kneeling or standing, get in front of them.
