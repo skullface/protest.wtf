@@ -14,18 +14,18 @@
 
   <meta itemprop="name" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
   <meta itemprop="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-  <meta itemprop="image" content="{{ 'assets/images/social-card.png' | absolute_url }}" >
+  <meta itemprop="image" content="https://protest.wtf/assets/images/social-card.png">
 
   <meta property="og:site_name" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <meta property="og:image" content="{{ 'assets/images/social-card.png' | absolute_url }}" >
+  <meta property="og:image" content="https://protest.wtf/assets/images/social-card.png">
   <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
-  <meta name="twitter:image" content="{{ 'assets/images/social-card.png' | absolute_url }}" >
-  <meta name="twitter:image:src" content="{{ 'assets/images/social-card.png' | absolute_url }}" >
+  <meta name="twitter:image" content="https://protest.wtf/assets/images/social-card.png">
+  <meta name="twitter:image:src" content="https://protest.wtf/assets/images/social-card.png">
   <meta name="twitter:image:alt" content="protest.wtf">
   <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate:
     160 | escape }}">
