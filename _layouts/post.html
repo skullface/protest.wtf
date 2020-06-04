@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<article class="Post" id="{{ page.slug }}">
+  <h1 class="Post__title">
+    <a href="#{{ page.slug }}" class="Post__title__anchor">
+      {% include anchor-headings-icon.html %}
+    </a>
+    {{ page.title }}
+  </h1>
+  <div class="Post__content">
+    {{ content }}
+  </div>
+</article>

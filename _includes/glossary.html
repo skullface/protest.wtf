@@ -1,0 +1,20 @@
+<p class="Lede">
+  Unsure what a word or phrase you’ve seen floating around means?
+</p>
+
+<dl>
+  {%- for entry in site.data.glossary -%}
+  <div class="mb-3">
+    <dt class="h4">
+      {{ entry.term }}
+    </dt>
+    <dd>
+      {{ entry.definition }}
+      <br>
+      <span class="f6">
+        &rarr; <a href="{{ entry.url }}">Learn more at {{ entry.source }}</a>
+      </span>
+    </dd>
+  </div>
+  {%- endfor -%}
+</dl>

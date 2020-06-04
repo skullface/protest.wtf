@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{% include head.html %}
+
+<body class="pt-6 pb-3 px-6" id="✊">
+  <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <symbol id="link" viewBox="0 0 16 16">
+      <title>Link</title>
+      <path fill-rule="evenodd"
+        d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+      </path>
+    </symbol>
+  </svg>
+
+  <header class="site__header mb-4 pb-3">
+    <h1 class="site__title lh-condensed-ultra">
+      {{ site.title }}
+    </h1>
+    <p class="f5 mt-1">
+      {{ site.lede }} 
+      
+      {% if page.last_modified %}
+      <span class="last-modified">
+        Last modified: {{ page.last_modified }}
+      </span>
+      {% endif %}
+    </p>
+  </header>
+
+  <main class="site__content f4">
+    {% include anchor-headings.html html=content beforeHeading="false" anchorBody="<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><use xlink:href=\"#link\"></use></svg>" anchorClass="Post__title__anchor" %}
+  </main>
+
+  <footer class="site__footer pt-3 mt-6">
+    <div class="back-to-top lh-condensed-ultra">
+      <a href="#✊" class="pt-2 f1">&uarr;</a>
+    </div>
+    
+    <p>
+      This guide is public domain with <a href="https://creativecommons.org/share-your-work/public-domain/cc0">no rights reserved</a>.
+      
+      This guide does not constitute legal advice nor medical advice. 
+      This guide does not condone instigating violence.
+      It may not be legal to protest or use any of these tactics. 
+      Do so at your own risk.
+    </p>
+    <p>
+      If you want to contribute, please see <a href="https://github.com/skullface/protest.wtf">the GitHub repo</a> or <a href="https://docs.google.com/forms/d/e/1FAIpQLSeB666_UTz2nNcYMyFu-B7-Y8Hzs191rL1cdov2BQ7fURLx3g/viewform?usp=sf_link">fill out this form</a>. Black lives matter.
+    </p>
+  </footer>
+
+  </body>
+</html>

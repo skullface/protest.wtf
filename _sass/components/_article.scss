@@ -1,0 +1,129 @@
+.Post + .Post {
+  @extend .mt-6;
+  @extend .pt-6;
+}
+
+.Post__title {
+  font-size: 3.5rem;
+  @extend .lh-condensed-ultra;
+  @extend .pb-1;
+}
+
+.Post h2 {
+  @extend .h1;
+  font-weight: normal !important;
+}
+
+.last-modified {
+  color: $gray-500;
+}
+
+.Post__title__anchor {
+  position: absolute;
+  left: -$spacer-5;
+  right: auto;
+  width: $spacer-5;
+  height: 100%;
+  padding-right: $spacer-1;
+  padding-left: $spacer-1;
+  overflow: visible;
+  
+  svg {
+    @extend .d-inline-block;
+    width: 100%;
+    height: 100%;
+    fill: $blue-300;
+    @media (prefers-color-scheme: dark) {
+      fill: $blue-400; 
+    }
+    visibility: hidden;
+  }
+}
+
+.Post__title__anchor:hover,
+h1:hover > .Post__title__anchor,
+h2:hover > .Post__title__anchor,
+h3:hover > .Post__title__anchor,
+h4:hover > .Post__title__anchor,
+h5:hover > .Post__title__anchor,
+h6:hover > .Post__title__anchor {
+  svg {
+    visibility: visible;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  position: relative;
+}
+
+.Lede,
+section p:first-child,
+article p:first-child {
+  color: $gray-600;
+  @media (prefers-color-scheme: dark) {
+    color: $gray-400;
+  }
+  font-weight: $font-weight-light;
+  @extend .f3;
+}
+
+p + ul {
+  margin-top: -$spacer-2;
+}
+
+ul,
+ol {
+  padding-left: $spacer-2;
+}
+
+ol {
+  list-style-type: none;
+  counter-reset: step-counter;
+
+  > li {
+    position: relative;
+
+    &::before {
+      position: absolute;
+      top: 0.2em;
+      left: -1.6em;
+      color: $gray-500;
+      content: counter(step-counter);
+      counter-increment: step-counter;
+      @extend .f3;
+
+      @include breakpoint(sm) {
+        top: 0.11em;
+      }
+    }
+
+    ol {
+      counter-reset: sub-counter;
+
+      li {
+        &::before {
+          content: counter(sub-counter, lower-alpha);
+          counter-increment: sub-counter;
+        }
+      }
+    }
+  }
+}
+
+ul {
+  list-style: none;
+
+  > li {
+    &::before {
+      position: absolute;
+      margin-left: -1em;
+      color: $gray-500;
+      content: "•";
+    }
+  }
+}

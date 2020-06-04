@@ -1,0 +1,66 @@
+h1,
+h2, 
+h3 {
+  @media (prefers-color-scheme: dark) {
+    color: $white;
+  }
+}
+
+p,
+ul,
+ol,
+blockquote,
+span,
+dl,
+div {
+  color: $gray-900;
+  @media (prefers-color-scheme: dark) {
+    color: $gray-300;
+  }
+}
+
+ul,
+ol {
+  @extend .ml-3;
+}
+
+ul + p,
+ul + h1,
+ul + h2,
+ul + h3,
+ol + p,
+ol + h1,
+ol + h2,
+ol + h3 {
+  @extend .mt-2;
+}
+
+.site__header p a,
+.site__footer p a,
+.Post ol a,
+.Post ul a,
+.Post p a,
+dd a {
+  font-weight: bold;
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: $gray-400;
+  @media (prefers-color-scheme: dark) {
+    text-decoration-color: $gray-500;
+  }
+  &:hover {
+    color: $blue-500;
+    text-decoration-color: $blue-300;
+    @media (prefers-color-scheme: dark) {
+      color: $blue-400;
+      text-decoration-color: $blue-600;
+    }
+  }
+}
+
+dt {
+  color: $black;
+  @media (prefers-color-scheme: dark) {
+    color: $white;
+  }
+}

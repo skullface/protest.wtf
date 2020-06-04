@@ -1,0 +1,14 @@
+<p class="Lede">
+  Tap/click on the image to open the full-size version in a new tab. Save it and share it out on your social media
+  accounts.
+</p>
+
+<div class="d-flex flex-wrap gutter-condensed">
+  {%- for social in site.data.social-share -%}
+  <figure class="col-6 col-md-4 m-0 mb-2">
+    <a href="/assets/images/{{ social.file }}" class="card d-block" target="_blank">
+      <img src="/assets/images/{{ social.file }}" alt="{{ social.title }}" class="width-fit">
+    </a>
+  </figure>
+  {%- endfor -%}
+</div>

@@ -1,0 +1,56 @@
+body {
+  background-color: $white;
+  @media (prefers-color-scheme: dark) {
+    background-color: $black;
+  }
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+section + section {
+  @extend .mt-6;
+  @extend .pt-6;
+}
+
+.back-to-top {
+  position: fixed;
+  bottom: $spacer-3;
+  right: $spacer-3;
+  a {
+    text-decoration: none;
+    color: $blue-500;
+    &:hover {
+      color: inherit;
+    }
+  }
+}
+
+.Directory__entry h2 {
+  @media (prefers-color-scheme: dark) {
+    color: $blue-400;
+  }    
+}
+
+.Directory__entry a:hover {
+  text-decoration: none;
+  h2 {
+    text-decoration: underline !important;
+    text-decoration-color: $blue-300 !important;
+    @media (prefers-color-scheme: dark) {
+      text-decoration-color: $blue-700 !important;
+    }
+  }
+}
+
+.site__footer {
+  border-top: solid 1px $gray-200;
+  @media (prefers-color-scheme: dark) {
+    border-top-color: $gray-800;
+  }
+}

@@ -1,0 +1,18 @@
+<p class="Lede">
+  Keep learning. Keep advocating.
+</p>
+
+<div class="d-flex flex-wrap flex-items-stretch gutter">
+  {%- for resource in site.data.resources -%}
+  <div class="Directory__entry col-sm-6 mb-4 rounded-2">
+    <a href="{{ resource.url }}">
+      <h2 class="lh-condensed-ultra lh-md-condensed mb-1">
+        {{ resource.title }}
+      </h2>
+      <p class="mb-0 text-decoration-none">
+        {{ resource.description }}
+      </p>
+    </a>
+  </div>
+  {%- endfor -%}
+</div>

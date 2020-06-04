@@ -1,0 +1,51 @@
+---
+layout: default
+slug: "/"
+last_modified: 3 June 2020
+---
+
+<section class="guide" id="guide">
+  {% for resource in site.resources %}
+    <article class="Post" id="{{ resource.slug }}">
+      <h1 class="Post__title">
+        <a href="#{{ resource.slug }}" class="Post__title__anchor">
+          {% include anchor-headings-icon.html %}
+        </a>
+        {{ resource.title }}
+      </h1>
+      <div class="Post__content">
+        {{ resource.content }}
+      </div>
+    </article>
+  {% endfor %}
+</section>
+
+<section class="social-media" id="social-media">
+  <h1 class="Post__title">
+    <a href="#social-media" class="Post__title__anchor">
+      {% include anchor-headings-icon.html %}
+    </a>
+    Share
+  </h1>
+  {% include share.html %}
+</section>
+
+<section class="glossary" id="glossary">
+  <h1 class="Post__title">
+    <a href="#glossary" class="Post__title__anchor">
+      {% include anchor-headings-icon.html %}
+    </a>
+    Glossary
+  </h1>
+  {% include glossary.html %}
+</section>
+
+<section class="resources" id="resources">
+  <h1 class="Post__title">
+    <a href="#resources" class="Post__title__anchor">
+      {% include anchor-headings-icon.html %}
+    </a>
+    Additional resources
+  </h1>
+  {% include resources.html %}
+</section>

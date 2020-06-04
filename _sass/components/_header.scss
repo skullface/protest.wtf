@@ -1,0 +1,18 @@
+.site__header {
+  border-bottom: solid 1px $gray-200;
+  @media (prefers-color-scheme: dark) {
+    border-bottom-color: $gray-800;
+  }
+}
+
+.site__title {
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}
+
+.site__intro {
+  @extend .f6;
+  @extend .pt-1;
+}
