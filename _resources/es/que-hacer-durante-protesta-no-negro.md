@@ -1,4 +1,8 @@
-## ¿Qué hacer en las protestas como una persona no-Negra?
+---
+title: Qué hacer en las protestas como una persona no-Negra
+layout: post
+---
+
 Toma la mayor cantidad de riesgos posibles para que éstos no caigan sobre de les protestantes Negres. Haz todo lo posible para proteger la identidad y seguridad de gente trans e indocumentada Negra. La gente Blanca TIENE que usar sus ventajas para proteger a la gente Negre del daño.
 ### Se un escudo humano
 Si ves a una persona Negra acercándose a oficiales de la ley sin barricada, colócate entre ambos. Si elles se encuentran en el suelo, colócates dobre de elles, si elles se encuentran incades, párate frente a elles.

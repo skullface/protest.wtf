@@ -1,4 +1,8 @@
-## ¿Qué hacer durante la protesta?
+---
+title: Qué hacer durante la protesta
+layout: post
+---
+
 ### Participa
 Más importante que cualquier cosa, estás allí para apoyar la causa. Particípa y sigue las indicaciones de los organizadores.
 ### Protege tu identidad

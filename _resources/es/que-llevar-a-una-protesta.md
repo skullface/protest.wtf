@@ -1,4 +1,8 @@
-## ¿Qué llevar a una protesta?
+---
+title: Qué llevar a una protesta
+layout: post
+---
+
 ### Provisiones
 * Agua potable
 * Comida fácil de portar

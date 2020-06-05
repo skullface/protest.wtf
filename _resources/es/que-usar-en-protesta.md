@@ -1,4 +1,8 @@
-## ¿Qué usar en una protesta?
+---
+title: Qué usar en una protesta
+layout: post
+---
+
 Tus herramientas dependen de cuál es tu papel en la protesta.
 ### Paraguas
 Un paraguas resistente y abierto puede cubrir actividad y proteger contra armas químicas.
