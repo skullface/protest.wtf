@@ -3,10 +3,10 @@
 ### Conoce tus derechos
 Infórmate lo más que puedas antes de salir a una protesta.
 (Recursos en Inglés)
-*[Tienes el derecho de guardar silencio](https://www.nlg.org/know-your-rights):Un libreto del gremio nacional de abogados para "saber tus derechos" al encontrarte con cuerpos policiales.
-*["Conoce tus derechos" para activistas del centro de Libertades Civiles para activistas](https://cldc.org/know-your-rights-for-activists/): Video de una hora de entrenamiento con diapositivas.
-*[Derechos de protesta par ACTUP NY](https://actupny.org/documents/demomanual/atthedemo.html): Lo que implica la desobediencia civil al protestar.
-*[Contra la ley: Interacciones con fuerzas de la ley](http://upagainstthelaw.org/interactions-with-law-enforcement/): Qué esperar y como interactuar de la mejor manera posible con las fuerzas de la ley.
+* [Tienes derecho a guardar silencio](https://www.nlg.org/know-your-rights): Un libreto del gremio nacional de abogados para "saber tus derechos" al encontrarte con cuerpos policiales.
+* ["Conoce tus derechos" para activistas del Centro de Libertades Civiles para Activistas](https://cldc.org/know-your-rights-for-activists/): Video de una hora de entrenamiento con diapositivas.
+* [Derechos de protesta par ACTUP NY](https://actupny.org/documents/demomanual/atthedemo.html): Lo que implica la desobediencia civil al protestar.
+* [Contra la ley: Interacciones con fuerzas de la ley](http://upagainstthelaw.org/interactions-with-law-enforcement/): Qué esperar y como interactuar de la mejor manera posible con las fuerzas de la ley.
 Recuerda que nuestras metas no están en línea con las de las fuerzas de la ley. Recuerda que **cualquier** cosa que digas **puede** y **va** a ser usada contra ti y otros.
 
 ### Considera tu arrestabilidad
