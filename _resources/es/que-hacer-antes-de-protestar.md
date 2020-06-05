@@ -1,4 +1,7 @@
-## ¿Qué hacer antes de una protesta?
+---
+title: "Qué hacer antes de protestar"
+layout: post
+---
 (Sección más aplicable a los E.U.A., reemplazable con recursos legales locales.)
 ### Conoce tus derechos
 Infórmate lo más que puedas antes de salir a una protesta.
