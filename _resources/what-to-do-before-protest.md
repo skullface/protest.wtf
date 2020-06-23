@@ -28,7 +28,7 @@ Every action has many roles to fill — figure out where _you_ can help the most
 * [Hong Kong protest role infographic](https://i.imgur.com/su1Z6X1.jpg)
 
 ### Learn about weapons that will be used against you
-“Less lethal” ammunition American police use is banned elsewhere in the world because they cause permanent harm and fatality. 
+“Less lethal” ammunition American police use is banned elsewhere in the world. This is because it can cause permanent harm and fatality. 
 * Tear gas (RCA, CS gas)
 * Pepper spray (OC pepper)
 * Rubber bullets (rubber baton rounds)
