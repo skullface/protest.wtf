@@ -35,4 +35,4 @@ Leaf blowers can diffuse tear gas out of the way of protestors.
 Sturdy marching signs can double as a shield.
 
 ### Bricks, stones, fencing
-Strategically placed (and glued) debri can create barricades to block movement/vehicle traffic. 
+Strategically placed (and glued) debris can create barricades to block movement/vehicle traffic. 
