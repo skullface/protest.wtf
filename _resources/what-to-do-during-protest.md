@@ -2,8 +2,8 @@
 title: "What to do during a protest"
 layout: post
 ---
-### Participate
-More important than anything else, you’re there to show up for your cause. Participate and follow the direction of organizers. 
+### Take part
+More important than anything else, you’re there to show up for your cause. Take part and follow the direction of organizers. 
 
 ### Protect your identity
 Guard your anonymity. Conceal as many identifiable characteristics as possible. Avoid surveillance. It might sound like overkill, but it’s not.
