@@ -16,7 +16,7 @@ At any protest, you should plan for the possibility of arrest or medical emergen
 * Several days of prescription medication, in its labeled original container if possible
 * Menstrual pads (no guaranteed access to change tampons)
 * Rescue medication you use (inhaler, epipen, etc.)
-* Assistance devices you use (cane, etc.)
+* Assistive devices you use (cane, etc.)
 
 ## Clothing
 
