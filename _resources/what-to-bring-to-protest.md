@@ -55,4 +55,4 @@ Consider using helmets made for high-impact or extreme sports.
 At the very least, wear a hat and hoodie. This is to cover the top of your head and face from surveillance and direct pepper spray.
 
 ### Padding
-The more space between you and a rubber bullet, the better. Consider knee or elbow pads to protect joints from injury during falls. Adult diapers can be used as padding. Keep your gear light for your own stamina and speed.
+The more space between you and a rubber bullet, the better. Consider knee or elbow pads to protect joints from injury during falls. Use adult diapers as padding. Keep your gear light for your own stamina and speed.
