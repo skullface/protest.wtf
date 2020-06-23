@@ -22,4 +22,4 @@ National Lawyers Guild (NLG) Legal Observers wear neon green. Alongside legal ob
 Street medics are volunteers trained to provide first aid care. They wear the universal Red Cross symbol on their clothing, bag, or body with duct tape.
 
 ### Stay as calm as possible
-If you start to get stressed, take a minute to relax. Even if your rights have been violated, try to remain calm. Your adrenaline and survival instincts will kick in. Remember your cause goes beyond this one action. The movement needs you.
+If you start to get stressed, take a minute to relax. Even if they have violated your rights, try to remain calm. Your adrenaline and survival instincts will kick in. Remember your cause goes beyond this one action. The movement needs you.
