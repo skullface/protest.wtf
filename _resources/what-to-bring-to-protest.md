@@ -36,7 +36,7 @@ Keep a change of clothes in a plastic bag inside your supply bag. You can use th
 The more geared up you are, the more likely police will want to start shit with you. Protect yourself to your own comfort level.  
 
 ### Shatter-resistant goggles
-Any eye protection _that won’t shatter_ is better than no eye protection. “Less lethal” ammo causes permanent injury and death. Improperly-deployed tear gas canisters causes permanent injury and death. Pepper spray aimed at the eyes from a point blank range can cause blindness. Use swim goggles or safety goggles instead of safety glasses. Your sunglasses or prescription glasses are NOT enough protection.
+Any eye protection _that won’t shatter_ is better than no eye protection. “Less lethal” ammo causes permanent injury and death. Improperly-deployed tear gas canisters can cause permanent injury and death. Pepper spray aimed at the eyes from a point blank range can cause blindness. Use swim goggles or safety goggles instead of safety glasses. Your sunglasses or prescription glasses are NOT enough protection.
   
 Look for products with the following ratings:
 
