@@ -59,6 +59,6 @@ Have at least one escape route planned with your buddy. Have a meeting place if 
 
 ### Additional ways to help that require preparation
 
-* **Participate in street medic training**: If you have a minimum of 20 hours of healthcare/medical training (nurse, EMT, herbalist, etc.), consider volunteering as a street medic to assist protestors on site. Find a bridge training happening near you by an established group of street medics, like [NYC Action Medical](https://www.facebook.com/NYCactionmedical).
+* **Participate in street medic training**: If you have at least 20 hours of healthcare/medical training, volunteer as a street medic. This includes (nurse, EMT, herbalist, etc.). Find a bridge training happening near you by an established group of street medics, like [NYC Action Medical](https://www.facebook.com/NYCactionmedical).
 * **Donate supplies to organizers and street medics**: Get in touch with your local activists to see where you can help with supplies. Often money is the best donation so organizers can get exactly what they need. 
 * **Bring extra supplies to hand out**: Consider bringing universal supplies like snacks without common allergens, extra water, bug spray, sunscreen, hand sanitizer, bandages, etc. to help where you can.
