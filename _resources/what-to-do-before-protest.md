@@ -5,7 +5,7 @@ layout: post
 
 ### Know your rights
 Be as informed as possible before you head out for an action.
-* [You have the right to remain silent](https://www.nlg.org/know-your-rights): National Lawyers Guild’s “Know Your Rights” pocket-sized PDF booklet for dealing with law enforcement.
+* [You have the right to remain silent](https://www.nlg.org/know-your-rights): National Lawyers Guild’s “Know Your Rights.” This is a pocket-sized PDF booklet for dealing with law enforcement.
 * [Civil Liberties Defense Center: “Know Your Rights” for activists](https://cldc.org/know-your-rights-for-activists/): 1-hour activist training video and slide deck
 * [ACTUP NY: Demonstrator rights](https://actupny.org/documents/demomanual/atthedemo.html): What the first Amendment and civil disobedience means when you are at a protest.
 * [Up Against the Law: Interactions with law enforcement](http://upagainstthelaw.org/interactions-with-law-enforcement/): What to expect and how to best interact with law enforcement.
