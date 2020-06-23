@@ -57,7 +57,7 @@ Look up your city’s legal aid options for civil rights protestors. If you aren
 ### Determine escape routes and meeting sites
 Have at least one escape route planned with your buddy. Have a meeting place if you and your buddy/group get separated. Consider agreeing on a meeting time as well. In a high-stress situations, you want to avoid improvisation.
 
-### Additional ways to help that require preparation
+### More ways to help that need preparation
 
 * **Take part in street medic training**: If you have at least 20 hours of healthcare/medical training, volunteer as a street medic. This includes (nurse, EMT, herbalist, etc.). Find a bridge training happening near you by an established group of street medics, like [NYC Action Medical](https://www.facebook.com/NYCactionmedical).
 * **Donate supplies to organizers and street medics**: Get in touch with your local activists to see where you can help with supplies. Often money is the best donation so organizers can get exactly what they need. 
