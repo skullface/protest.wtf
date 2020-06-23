@@ -27,7 +27,7 @@ Don’t go alone! It’s always better to have a partner. Talk about your vulner
 Every action has many roles to fill — figure out where _you_ can help the most. You don’t need to be a hero, you just need to be a body.
 * [Hong Kong protest role infographic](https://i.imgur.com/su1Z6X1.jpg)
 
-### Learn about weapons that will be used against you
+### Learn about weapons they will use against you
 “Less lethal” ammunition American police use is banned elsewhere in the world. This is because it can cause permanent harm and fatality. 
 * Tear gas (RCA, CS gas)
 * Pepper spray (OC pepper)
