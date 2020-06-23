@@ -8,7 +8,7 @@ layout: post
 * Cash, change, ID
 * Prescription glasses (NOT contact lenses, to avoid further chemical weapon irritation)
 * Permanent marker
-* Easy-access backpack or tote bag for all supplies
+* Easy access backpack or tote bag for all supplies
 * Sunscreen (oil-free, to avoid further chemical weapon irritation)
 
 At any protest, you should plan for the possibility of arrest or medical emergency. You will want to bring:
