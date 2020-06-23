@@ -51,8 +51,8 @@ Hong Kong protestors use standard yellow construction helmets for protection.
 
 Consider using helmets made for high-impact or extreme sports.
 
-* Hockey or football helmets effectively protect against head trauma.
 * Airsoft metal mesh half-masks protect the lower half your face. They are designed to withstand BB shots when worn with a mouth guard.
+* Hockey or football helmets protect against head trauma.
 
 At the very least, wear a hat and hoodie. This is to cover the top of your head and face from surveillance and direct pepper spray.
 
