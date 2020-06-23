@@ -12,7 +12,7 @@ If you see a Black person approaching law enforcement with no barricade, get bet
 Stand at the front line between Black protestors and police. Create a barricade by locking arms with others. Announce your intention: "white bodies, lock arms!"
 
 ### Be a wellness volunteer
-Support your fellow protestors without specialized training. Distribute supplies like water, snacks, and sunscreen. Drive people. Move supplies. Receive training in basic first aid or eye flushing and shout "MEDIC" when someone needs more advanced help.
+Support your fellow protestors without specialized training. Distribute supplies like water, snacks, and sunscreen. Drive people. Move supplies. Receive training in basic first aid or eye flushing. Shout "MEDIC" when someone needs more advanced help.
 
 ### Just show up
 There is strength in numbers. Be part of the mass crowd — that’s what makes a protest a protest! Wield a sign. Chant. Be a champion of the cause. Show up.
