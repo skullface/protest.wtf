@@ -21,7 +21,9 @@ At any protest, you should plan for the possibility of arrest or medical emergen
 ## Clothing
 
 ### Plain, solid-color long-sleeve shirt and plain, solid-color pants
-Dress for anonymity. Cover as much of your skin as possible to a) prevent chemical weapons from sitting on your skin, b) obscure any identifiable tattoos or markings.
+Dress for anonymity. Cover as much of your skin as possible to
+* prevent chemical weapons from sitting on your skin
+* obscure any identifiable tattoos or markings.
 
 ### Mask or bandana
 Shield your face to protect your identity and limit the spread of COVID-19.  
