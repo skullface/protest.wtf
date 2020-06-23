@@ -9,7 +9,7 @@ More important than anything else, you’re there to show up for your cause. Tak
 Guard your anonymity. Conceal as many identifiable characteristics as possible. Avoid surveillance. It might sound like overkill, but it’s not.
 
 ### Protect the identity of others
-DO NOT upload photos or videos with metadata, protestors’ faces or identifiable markings.  Consider not taking photos or videos at all. Take a screenshot of your photo instead of posting the original photo directly to remove identifying metadata.
+DO NOT upload photos or videos with metadata, protestors’ faces or identifiable markings.  Consider not taking photos or videos at all. Take a screenshot of your photo instead of posting the original photo directly. Doing this removes identifying metadata.
 
 If you are a photo journalist or videographer, [follow responsible practices](https://twitter.com/sarahmcgphoto/status/1266936193373143041). 
 
