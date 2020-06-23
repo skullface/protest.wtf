@@ -10,7 +10,7 @@ Be as informed as possible before you head out for an action.
 * [ACTUP NY: Demonstrator rights](https://actupny.org/documents/demomanual/atthedemo.html): What the first Amendment and civil disobedience means when you are at a protest.
 * [Up Against the Law: Interactions with law enforcement](http://upagainstthelaw.org/interactions-with-law-enforcement/): What to expect and how to best interact with law enforcement.
 
-Remember our goals are not aligned with law enforcement. Remember that **anything** you say **can** and **will** be used against you and others.
+Remember our goals are not aligned with law enforcement. Remember that they **can** and **will** use **anything** you say against you and others.
 
 ### Consider your arrestability
 Consider the following:
