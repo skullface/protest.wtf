@@ -25,7 +25,7 @@ Fill the bottle with either:
 ### Traffic cone
 Traffic cones can be set on top of a deployed tear gas canister. Pour a baking soda–water solution through top hole of the cone to help neutralize the tear gas particles.
 
-### Oil paint, thickened acrylic paint, holi powder
+### Oil paint, thickened acrylic paint, Gulal powder
 When thrown, these pigments can obscure shield/visor vision. Thicken acrylic paint with flour or cornstarch.
 
 ### Leaf blower
