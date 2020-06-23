@@ -13,7 +13,12 @@ Be as informed as possible before you head out for an action.
 Remember our goals are not aligned with law enforcement. Remember that **anything** you say **can** and **will** be used against you and others.
 
 ### Consider your arrestability
-Consider your own private legal concerns, jeopardy of employment or professional license, and obligations to your family or work. Keep to those boundaries. 
+Consider the following:
+* Your own private legal concerns
+* Jeopardy of employment or professional license
+* Obligations to your family or work
+
+Keep to those boundaries. 
 
 ### Find a buddy and commit with them
 Don’t go alone! It’s always better to have a partner. Talk about your vulnerabilities, comfort level, and special skills. Determine and agree to your desired risk level and stick to it.
