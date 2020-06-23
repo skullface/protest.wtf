@@ -52,7 +52,7 @@ Consider using helmets made for high-impact or extreme sports.
 * Hockey or football helmets effectively protect against head trauma.
 * Airsoft metal mesh half-masks protect the lower half your face. They are designed to withstand BB shots when worn with a mouth guard.
 
-At the very least, wear a hat and hoodie to help cover the top of your head and face from surveillance and direct pepper spray.
+At the very least, wear a hat and hoodie. This is to cover the top of your head and face from surveillance and direct pepper spray.
 
 ### Padding
 The more space between you and a rubber bullet, the better. Consider knee or elbow pads to protect joints from injury during falls. Adult diapers can be used as padding. Keep your gear light for your own stamina and speed.
