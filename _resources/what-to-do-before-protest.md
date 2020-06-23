@@ -34,7 +34,12 @@ Every action has many roles to fill — figure out where _you_ can help the most
 * Rubber bullets (rubber baton rounds)
 * Wooden bullets (wooden baton rounds)
 
-Get familiar with their effects, potential complications, and how to care for yourself after the fact ahead of time. **Do not provide medical care beyond your training.** There are many urban legends about how to best treat tear gas and pepper spray — water is safest. Your goals are to keep it out of your eyes, keep it out of your lungs, and keep it off your skin.
+Get familiar with:
+* their effects
+* potential complications
+* how to care for yourself after the fact ahead of time.
+
+**Do not provide medical care beyond your training.** There are many urban legends about how to best treat tear gas and pepper spray — water is safest. Your goals are to keep it out of your eyes, out of your lungs, and off your skin.
 * [_Riot Medicine_](https://riotmedicine.net/) researched, public-domain PDF book
 * [What to do if you’re exposed to tear gas](https://www.popsci.com/story/diy/tear-gas-guide/) article by PopSci
 
