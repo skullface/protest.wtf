@@ -14,5 +14,5 @@ Stand at the front line between Black protestors and police. Create a barricade 
 ### Be a wellness volunteer
 Support your fellow protestors without specialized training. Distribute supplies like water, snacks, and sunscreen. Drive people. Move supplies. Receive training in basic first aid or eye flushing. Shout "MEDIC" when someone needs more advanced help.
 
-### Just show up
+### Show up
 There is strength in numbers. Be part of the mass crowd — that’s what makes a protest a protest! Wield a sign. Chant. Be a champion of the cause. Show up.
